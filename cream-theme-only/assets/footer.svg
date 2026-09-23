@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="112" viewBox="0 0 830 112" role="img" aria-label="Thanks for stopping by">
+<title>Thanks for stopping by</title>
+<defs></defs>
+<rect x=".5" y=".5" width="829" height="111" rx="14" fill="#e4dcc9" stroke="#c9a876" stroke-opacity=".22"/>
+<path d="M0 46 Q 103.75 24 207.5 46 T 415.0 46 T 622.5 46 T 830 46" fill="none" stroke="#c9a876" stroke-width="2" stroke-opacity=".8"><animate attributeName="d" values="M0 46 Q 103.75 24 207.5 46 T 415.0 46 T 622.5 46 T 830 46;M0 46 Q 103.75 68 207.5 46 T 415.0 46 T 622.5 46 T 830 46;M0 46 Q 103.75 24 207.5 46 T 415.0 46 T 622.5 46 T 830 46" dur="6s" repeatCount="indefinite"/></path>
+<path d="M0 46 Q 103.75 60 207.5 46 T 415.0 46 T 622.5 46 T 830 46" fill="none" stroke="#8f9a86" stroke-width="1.5" stroke-opacity=".45"><animate attributeName="d" values="M0 46 Q 103.75 60 207.5 46 T 415.0 46 T 622.5 46 T 830 46;M0 46 Q 103.75 32 207.5 46 T 415.0 46 T 622.5 46 T 830 46;M0 46 Q 103.75 60 207.5 46 T 415.0 46 T 622.5 46 T 830 46" dur="8s" repeatCount="indefinite"/></path>
+<text x="291.8" y="88" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12" font-weight="700" fill="#f2efe8" textLength="246.4" lengthAdjust="spacing">THANKS FOR STOPPING BY</text>
+<text x="325.0" y="106" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="10" fill="#a9ab9e" textLength="180.0" lengthAdjust="spacing">SHAM.A · ML ENGINEER</text>
+</svg>

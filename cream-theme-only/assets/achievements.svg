@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="316" viewBox="0 0 830 316" role="img" aria-label="Certifications and awards">
+<title>Certifications and awards</title>
+<defs></defs>
+<rect x=".5" y=".5" width="829" height="315" rx="14" fill="#e4dcc9" stroke="#c9a876" stroke-opacity=".22"/>
+<text x="30" y="40" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12" font-weight="800" fill="#c9a876" textLength="142.8" lengthAdjust="spacing">CERTIFICATIONS</text>
+<text x="435" y="40" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12" font-weight="800" fill="#c9a876" textLength="61.2" lengthAdjust="spacing">AWARDS</text>
+<rect x="417" y="24" width="1" height="268" fill="#c9a876" fill-opacity=".14"/><rect x="30" y="62" width="375" height="52" rx="10" fill="#101410" stroke="#c9a876" stroke-opacity=".12"/>
+<rect x="42" y="72" width="32" height="32" rx="8" fill="#c9a876" fill-opacity=".14" stroke="#c9a876" stroke-opacity=".5"/>
+<path d="M50 88 l6 6 l11 -12" fill="none" stroke="#c9a876" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><animate attributeName="stroke-opacity" values="1;.4;1" dur="3s" begin="0.0s" repeatCount="indefinite"/></path>
+<text x="88" y="85" font-family="'Helvetica Neue',Helvetica,Arial,'Segoe UI',sans-serif" font-size="13.5" font-weight="700" fill="#f2efe8">Artificial Intelligence</text>
+<text x="88" y="102" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="11" fill="#a9ab9e">GUVI &amp; HCL</text><rect x="30" y="124" width="375" height="52" rx="10" fill="#101410" stroke="#c9a876" stroke-opacity=".12"/>
+<rect x="42" y="134" width="32" height="32" rx="8" fill="#c9a876" fill-opacity=".14" stroke="#c9a876" stroke-opacity=".5"/>
+<path d="M50 150 l6 6 l11 -12" fill="none" stroke="#c9a876" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><animate attributeName="stroke-opacity" values="1;.4;1" dur="3s" begin="0.4s" repeatCount="indefinite"/></path>
+<text x="88" y="147" font-family="'Helvetica Neue',Helvetica,Arial,'Segoe UI',sans-serif" font-size="13.5" font-weight="700" fill="#f2efe8">Cloud Foundations</text>
+<text x="88" y="164" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="11" fill="#a9ab9e">AWS Academy</text><rect x="30" y="186" width="375" height="52" rx="10" fill="#101410" stroke="#c9a876" stroke-opacity=".12"/>
+<rect x="42" y="196" width="32" height="32" rx="8" fill="#c9a876" fill-opacity=".14" stroke="#c9a876" stroke-opacity=".5"/>
+<path d="M50 212 l6 6 l11 -12" fill="none" stroke="#c9a876" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><animate attributeName="stroke-opacity" values="1;.4;1" dur="3s" begin="0.8s" repeatCount="indefinite"/></path>
+<text x="88" y="209" font-family="'Helvetica Neue',Helvetica,Arial,'Segoe UI',sans-serif" font-size="13.5" font-weight="700" fill="#f2efe8">CCNA · Switching, Routing &amp; Wireless</text>
+<text x="88" y="226" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="11" fill="#a9ab9e">Cisco Networking</text><rect x="30" y="248" width="375" height="52" rx="10" fill="#101410" stroke="#c9a876" stroke-opacity=".12"/>
+<rect x="42" y="258" width="32" height="32" rx="8" fill="#c9a876" fill-opacity=".14" stroke="#c9a876" stroke-opacity=".5"/>
+<path d="M50 274 l6 6 l11 -12" fill="none" stroke="#c9a876" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><animate attributeName="stroke-opacity" values="1;.4;1" dur="3s" begin="1.2000000000000002s" repeatCount="indefinite"/></path>
+<text x="88" y="271" font-family="'Helvetica Neue',Helvetica,Arial,'Segoe UI',sans-serif" font-size="13.5" font-weight="700" fill="#f2efe8">Artificial Intelligence</text>
+<text x="88" y="288" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="11" fill="#a9ab9e">IBM</text><rect x="435" y="62" width="375" height="106" rx="12" fill="#101410" stroke="#c9a876" stroke-opacity=".12"/>
+<circle cx="485" cy="115" r="30" fill="#c9a876" fill-opacity=".12" stroke="#c9a876" stroke-opacity=".7" stroke-width="2"/>
+<circle cx="485" cy="115" r="30" fill="none" stroke="#c9a876" stroke-width="2" stroke-dasharray="6 176" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" from="0 485 115" to="360 485 115" dur="4s" repeatCount="indefinite"/></circle>
+<text x="485" y="121" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="17" font-weight="800" fill="#c9a876">3rd</text>
+<text x="533" y="108" font-family="'Helvetica Neue',Helvetica,Arial,'Segoe UI',sans-serif" font-size="14" font-weight="800" fill="#f2efe8">3RD PLACE · COSMIC DEFCON</text><text x="533" y="128" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="11" fill="#a9ab9e">NIT Puducherry · Idea Pitching &amp;</text><text x="533" y="144" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="11" fill="#a9ab9e">Innovation</text><rect x="435" y="178" width="375" height="106" rx="12" fill="#101410" stroke="#c9a876" stroke-opacity=".12"/>
+<circle cx="485" cy="231" r="30" fill="#c9a876" fill-opacity=".12" stroke="#c9a876" stroke-opacity=".7" stroke-width="2"/>
+<circle cx="485" cy="231" r="30" fill="none" stroke="#c9a876" stroke-width="2" stroke-dasharray="6 176" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" from="0 485 231" to="360 485 231" dur="4s" repeatCount="indefinite"/></circle>
+<text x="485" y="237" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="17" font-weight="800" fill="#c9a876">3rd</text>
+<text x="533" y="224" font-family="'Helvetica Neue',Helvetica,Arial,'Segoe UI',sans-serif" font-size="14" font-weight="800" fill="#f2efe8">3RD PRIZE · PROJECT EXPO</text><text x="533" y="244" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="11" fill="#a9ab9e">Loyola College · Innovative AI</text><text x="533" y="260" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="11" fill="#a9ab9e">Project</text>
+</svg>

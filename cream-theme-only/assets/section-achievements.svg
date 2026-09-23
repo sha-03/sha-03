@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="44" viewBox="0 0 830 44" role="img" aria-label="CERTIFICATIONS &amp; AWARDS">
+<title>CERTIFICATIONS &amp; AWARDS</title>
+<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#c9a876" stop-opacity="0"/><stop offset="1" stop-color="#c9a876" stop-opacity=".7"/></linearGradient>
+<linearGradient id="r" x1="0" x2="1"><stop offset="0" stop-color="#c9a876" stop-opacity=".7"/><stop offset="1" stop-color="#c9a876" stop-opacity="0"/></linearGradient></defs>
+<rect x=".5" y=".5" width="829" height="43" rx="10" fill="#e4dcc9" stroke="#c9a876" stroke-opacity=".10"/>
+<rect x="20" y="21" width="233.60000000000002" height="2" fill="url(#l)"/><rect x="576.4000000000001" y="21" width="233.5999999999999" height="2" fill="url(#r)"/>
+<circle cx="276.6" cy="22" r="5" fill="#c9a876"><animate attributeName="r" values="5;3.4;5" dur="2.2s" repeatCount="indefinite"/></circle>
+<text x="291.6" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="14" font-weight="800" fill="#f2efe8" textLength="266.8" lengthAdjust="spacing">CERTIFICATIONS &amp; AWARDS</text>
+</svg>

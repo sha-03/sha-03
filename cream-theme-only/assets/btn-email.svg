@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="36" viewBox="0 0 176 36" role="img" aria-label="EMAIL — CONTACT">
+<title>EMAIL — CONTACT</title>
+<defs><clipPath id="r"><rect width="176" height="36" rx="7"/></clipPath></defs>
+<g clip-path="url(#r)"><rect width="91.0" height="36" fill="#101410"/><rect x="91.0" width="84.6" height="36" fill="#c9a876"/></g>
+<rect x=".5" y=".5" width="175" height="35" rx="7" fill="none" stroke="#c9a876" stroke-opacity=".55"/>
+<g transform="translate(14 10) scale(.6667)"><rect x="2.5" y="5" width="19" height="14" rx="2.5" fill="none" stroke="#f2efe8" stroke-width="2"/><path d="M3.5 7.5l8.5 6 8.5-6" fill="none" stroke="#f2efe8" stroke-width="2" stroke-linejoin="round"/></g>
+<text x="40" y="23" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="11" font-weight="700" fill="#f2efe8" textLength="39.0" lengthAdjust="spacing">EMAIL</text>
+<text x="106.0" y="23" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="11" font-weight="800" fill="#12150f" textLength="54.6" lengthAdjust="spacing">CONTACT</text>
+</svg>
