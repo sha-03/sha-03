@@ -1,12 +1,12 @@
 <div align="center">
 
-# SHAM ANAND
+<img src="https://raw.githubusercontent.com/sha-03/sha-03/main/assets/profile-header.svg" width="100%" alt="Sham Anand — AI / ML Engineer" />
 
-### AI / ML ENGINEER · CREATIVE BUILDER
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+intelligent+systems+for+real+problems.;Deep+Learning+%C2%B7+Computer+Vision+%C2%B7+Generative+AI;Turning+ideas+into+useful+digital+experiences." alt="Animated AI and ML introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=850&color=79C0FF&center=true&vCenter=true&width=820&lines=Building+intelligent+systems+for+real+problems.;Designing+with+AI%2C+code%2C+and+creative+thinking.;Deep+Learning+%7C+Computer+Vision+%7C+Generative+AI." alt="Animated AI and ML introduction" />
 
-*Building intelligent systems where deep learning meets real-world impact.*
+<sub><b>⚡ Available for AI / ML opportunities · Building ideas into intelligence</b></sub>
 
 [Portfolio](https://sha-03.github.io/sham-anand-portfolio/) · [LinkedIn](https://www.linkedin.com/in/sham-anand/) · [Email](mailto:shamanand1358@gmail.com)
 
