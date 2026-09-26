@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Sham Anand — AI and Machine Learning Engineer</title>
+  <desc id="desc">Dark portfolio style banner with a neural grid and blue and gold accents</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070B14"/>
+      <stop offset="48%" stop-color="#101B33"/>
+      <stop offset="100%" stop-color="#070B14"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="76%" cy="28%" r="56%">
+      <stop offset="0%" stop-color="#2F81F7" stop-opacity=".34"/>
+      <stop offset="52%" stop-color="#1F6FEB" stop-opacity=".08"/>
+      <stop offset="100%" stop-color="#07101E" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#7DA9E8" stroke-opacity=".11" stroke-width="1"/>
+    </pattern>
+    <filter id="soft">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="360" rx="18" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="18" fill="url(#grid)"/>
+  <rect width="1280" height="360" rx="18" fill="url(#glow)"/>
+  <circle cx="1055" cy="104" r="94" fill="#2F81F7" opacity=".17" filter="url(#soft)"/>
+  <circle cx="1155" cy="238" r="62" fill="#C9A876" opacity=".15" filter="url(#soft)"/>
+  <g fill="none" stroke="#58A6FF" stroke-opacity=".42" stroke-width="1.2">
+    <path d="M900 82h72l33 32h80"/>
+    <path d="M872 184h93l35-36h108"/>
+    <path d="M895 278h68l38-39h147"/>
+  </g>
+  <g fill="#58A6FF">
+    <circle cx="900" cy="82" r="4"/><circle cx="1005" cy="114" r="4"/><circle cx="872" cy="184" r="4"/>
+    <circle cx="1000" cy="148" r="4"/><circle cx="895" cy="278" r="4"/><circle cx="1001" cy="239" r="4"/>
+  </g>
+  <text x="92" y="95" fill="#79C0FF" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="4">AI / ML ENGINEER</text>
+  <rect x="92" y="119" width="78" height="4" rx="2" fill="#C9A876"/>
+  <text x="90" y="205" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="800" letter-spacing="2">SHAM ANAND</text>
+  <text x="94" y="256" fill="#A9BCD2" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500">DEEP LEARNING  •  COMPUTER VISION  •  GENERATIVE AI</text>
+  <text x="94" y="304" fill="#C9A876" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="2">BUILDING IDEAS INTO INTELLIGENCE</text>
+</svg>
