@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sha-03/sha-03/main/assets/sham-3d-character-transparent.png" width="250" alt="Sham Anand 3D character on a transparent background" />
-
 # SHAM ANAND
 
 ### AI / ML ENGINEER · CREATIVE BUILDER
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+intelligent+systems+for+real+problems.;Deep+Learning+%C2%B7+Computer+Vision+%C2%B7+Generative+AI;Turning+ideas+into+useful+digital+experiences." alt="Animated AI and ML introduction" />
 
 *Building intelligent systems where deep learning meets real-world impact.*
 
