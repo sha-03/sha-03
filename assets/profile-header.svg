@@ -1,41 +1,36 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
   <title id="title">Sham Anand — AI and Machine Learning Engineer</title>
-  <desc id="desc">Dark portfolio style banner with a neural grid and blue and gold accents</desc>
+  <desc id="desc">Warm bone portfolio background with a subtle neural network pattern</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#070B14"/>
-      <stop offset="48%" stop-color="#101B33"/>
-      <stop offset="100%" stop-color="#070B14"/>
+      <stop offset="0%" stop-color="#F3EDE1"/>
+      <stop offset="48%" stop-color="#ECE4D6"/>
+      <stop offset="100%" stop-color="#E6DDCD"/>
     </linearGradient>
-    <radialGradient id="glow" cx="76%" cy="28%" r="56%">
-      <stop offset="0%" stop-color="#2F81F7" stop-opacity=".34"/>
-      <stop offset="52%" stop-color="#1F6FEB" stop-opacity=".08"/>
-      <stop offset="100%" stop-color="#07101E" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
-      <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#7DA9E8" stroke-opacity=".11" stroke-width="1"/>
-    </pattern>
-    <filter id="soft">
-      <feGaussianBlur stdDeviation="12"/>
-    </filter>
+    <filter id="blur"><feGaussianBlur stdDeviation="1.3"/></filter>
   </defs>
   <rect width="1280" height="360" rx="18" fill="url(#bg)"/>
-  <rect width="1280" height="360" rx="18" fill="url(#grid)"/>
-  <rect width="1280" height="360" rx="18" fill="url(#glow)"/>
-  <circle cx="1055" cy="104" r="94" fill="#2F81F7" opacity=".17" filter="url(#soft)"/>
-  <circle cx="1155" cy="238" r="62" fill="#C9A876" opacity=".15" filter="url(#soft)"/>
-  <g fill="none" stroke="#58A6FF" stroke-opacity=".42" stroke-width="1.2">
-    <path d="M900 82h72l33 32h80"/>
-    <path d="M872 184h93l35-36h108"/>
-    <path d="M895 278h68l38-39h147"/>
+  <g fill="none" stroke="#8D8A84" stroke-opacity=".22" stroke-width="2.2">
+    <path d="M-45 338 122 253 266 310 432 181 584 267 735 118 925 194 1090 77 1330 225"/>
+    <path d="M122 253 77 74 266 310 382 38 432 181 584 267 618 54 735 118 799 316 925 194 1024 312 1090 77"/>
+    <path d="M-30 88 162 142 382 38 548 117 618 54 781 52 925 194 1116 184 1287 91"/>
   </g>
-  <g fill="#58A6FF">
-    <circle cx="900" cy="82" r="4"/><circle cx="1005" cy="114" r="4"/><circle cx="872" cy="184" r="4"/>
-    <circle cx="1000" cy="148" r="4"/><circle cx="895" cy="278" r="4"/><circle cx="1001" cy="239" r="4"/>
+  <g fill="#7B7974" opacity=".36">
+    <circle cx="122" cy="253" r="9"/><circle cx="266" cy="310" r="7"/><circle cx="432" cy="181" r="10"/>
+    <circle cx="584" cy="267" r="7"/><circle cx="735" cy="118" r="10"/><circle cx="925" cy="194" r="8"/>
+    <circle cx="1090" cy="77" r="9"/><circle cx="77" cy="74" r="7"/><circle cx="382" cy="38" r="7"/>
+    <circle cx="618" cy="54" r="6"/><circle cx="1024" cy="312" r="6"/>
   </g>
-  <text x="92" y="95" fill="#79C0FF" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="4">AI / ML ENGINEER</text>
-  <rect x="92" y="119" width="78" height="4" rx="2" fill="#C9A876"/>
-  <text x="90" y="205" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="800" letter-spacing="2">SHAM ANAND</text>
-  <text x="94" y="256" fill="#A9BCD2" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500">DEEP LEARNING  •  COMPUTER VISION  •  GENERATIVE AI</text>
-  <text x="94" y="304" fill="#C9A876" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="2">BUILDING IDEAS INTO INTELLIGENCE</text>
+  <g transform="translate(1098 31)" fill="none" stroke="#8D8A84" stroke-opacity=".45" stroke-width="2">
+    <ellipse cx="55" cy="35" rx="54" ry="16" transform="rotate(28 55 35)"/>
+    <ellipse cx="55" cy="35" rx="54" ry="16" transform="rotate(-28 55 35)"/>
+    <ellipse cx="55" cy="35" rx="54" ry="16" transform="rotate(90 55 35)"/>
+    <circle cx="55" cy="35" r="5" fill="#8D8A84" stroke="none"/>
+  </g>
+  <rect x="88" y="78" width="94" height="4" rx="2" fill="#A48655"/>
+  <text x="88" y="60" fill="#6B675F" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="4">AI / ML ENGINEER</text>
+  <text x="85" y="174" fill="#171717" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="800" letter-spacing="2">SHAM ANAND</text>
+  <text x="90" y="224" fill="#4C4841" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600">DEEP LEARNING  •  COMPUTER VISION  •  GENERATIVE AI</text>
+  <text x="90" y="274" fill="#8B6B39" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="2">BUILDING IDEAS INTO INTELLIGENCE</text>
+  <text x="90" y="316" fill="#6B675F" font-family="Arial, Helvetica, sans-serif" font-size="14">KARAIKAL, PUDUCHERRY · INDIA</text>
 </svg>
